@@ -1,0 +1,7 @@
+ul{
+    list-style: number;
+}
+li> label{
+    width: 300px;
+    padding: 10px;
+}
